@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a simple repository is for showing how Git and GitHub work
+This is a simple repository is for showing how Git and GitHub work together. Adding a line for
+a rebase example.
 
 ## Introduction
 
