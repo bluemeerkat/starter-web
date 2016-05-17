@@ -22,5 +22,5 @@ Please fork this repository and then pull...
 
 ### Copyright
 
-2016 Acme.com
+2016 Acme.com. All rights reserved.
 
