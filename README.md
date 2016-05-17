@@ -17,3 +17,7 @@ This is a simple web project. deployment can be on any...
 
 ## How To Contribute
 
+### Copyright
+
+2016 Acme.com
+
