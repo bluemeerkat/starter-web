@@ -17,6 +17,8 @@ This is a simple web project. deployment can be on any...
 
 ## How To Contribute
 
+Please fork this repository and then pull...
+
 ### Copyright
 
 2016 Acme.com
